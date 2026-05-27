@@ -1,0 +1,93 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+.envrc
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+.htmlcov/
+.tox/
+.tox
+*.cover
+.hypothesis/
+.ropeproject
+.mypy_cache/
+.ruff_cache/
+.pyre/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# Project specific
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.sqlite
+*.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# uv (Python package manager)
+uv.lock  # Remove this if you want to track lock files
+
+# pyproject.toml - UNCOMMENT if you DON'T want to track it
+# pyproject.toml
+
+# Requirements files - UNCOMMENT if generated automatically
+# requirements.txt
+# requirements-dev.txt
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytype
+.pytype/
+
+# OS files
+Thumbs.db
+desktop.ini
