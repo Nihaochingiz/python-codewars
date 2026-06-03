@@ -29,4 +29,4 @@ List = [
 
 
 
-print(string_reordering(List))
+print(sentence(List))
